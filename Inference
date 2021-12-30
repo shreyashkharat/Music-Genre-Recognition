@@ -1,0 +1,1 @@
+The plot of accuracies and losses imply that about 50 epochs will give an optimum model with respect to accuracy and loss.
